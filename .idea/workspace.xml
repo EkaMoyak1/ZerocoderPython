@@ -38,8 +38,11 @@
     "Python.File_1.executor": "Run",
     "Python.File_2.executor": "Run",
     "Python.File_3.executor": "Run",
+    "Python.File_4.executor": "Run",
+    "Python.File_5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Course/zero",
     "settings.editor.selected.configurable": "preferences.pluginManager"
