@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94fe3393-7bd3-4e3b-8885-ceb1664f316d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="94fe3393-7bd3-4e3b-8885-ceb1664f316d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,11 +39,12 @@
     "Python.File_4.executor": "Run",
     "Python.File_5.executor": "Run",
     "Python.File_6.executor": "Run",
+    "Python.shop_room.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Python Project/Git_track",
+    "last_opened_file_path": "D:/Course/zero",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
